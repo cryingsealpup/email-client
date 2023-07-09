@@ -1,0 +1,9 @@
+Hi ${PERSON_NAME},
+
+I saw recently you became a customer of ours — thank you!
+
+My name is John and I'm trying to make our setup process better. I noticed you haven't been in your account for a while
+and it occurred to me that maybe we did something wrong.
+
+
+
